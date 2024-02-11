@@ -1,0 +1,16 @@
+{
+  "name": "hogl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://softcorp-industries.github.io/hogl",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
